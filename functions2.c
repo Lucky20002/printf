@@ -5,7 +5,7 @@
  * print_pointer - Prints values of a pointer variable
  * @types: List of arguments
  * @buffer: Buffer array to handle print
- * @flags:  Calculates active flags
+ * @flags:  adds active flags
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
